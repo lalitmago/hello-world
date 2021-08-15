@@ -9,6 +9,6 @@ public class Main {
      * */
 
         System.out.println("SSA from Simran.");
-        System.out.println("Hello Paji");
+        System.out.println("Hello Paji kidda");
     }
 }
